@@ -1,2 +1,1 @@
-#images in read-me
-use github issues to host images
+https://github.com/Tech-Mahindra1801/helloworld/issues/1#issue-580496410
